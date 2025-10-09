@@ -1,5 +1,8 @@
 <!-- 🖼️ Banner Section -->
-![Data Analytics Banner]("")
+<p align="center">
+  <img src="https://github.com/kori-ganesh/kori-ganesh/blob/main/Gemini_Generated_Image_8fndrw8fndrw8fnd.png" alt="Data Analytics Banner">
+</p>
+
 
 # 👋 Hi there, I’m **Kori Ganesh**
 🎯 *Aspiring Data Analyst | Turning Data into Actionable Insights*
