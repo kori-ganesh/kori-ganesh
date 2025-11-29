@@ -1,6 +1,6 @@
 <!-- 🖼️ Banner Section -->
 <p align="center">
-  <img src="https://github.com/kori-ganesh/kori-ganesh/blob/main/Gemini_Generated_Image_8fndrw8fndrw8fnd.png" alt="Data Analytics Banner">
+  <img src="https://github.com/kori-ganesh/kori-ganesh/blob/main/AI_enabled_DA_1.png" alt="Data Analytics Banner">
 </p>
 
 
@@ -22,7 +22,7 @@ Through various real-world projects, I’ve learned how to transform messy datas
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExam42dnlyOWFzMXp3eTJsNWFsaXd6eWd3YzJtenJqcDZ5N3p5enhnYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KAq5w47R9rmTuvWOWa/giphy.gif" width="80"  title="Python"/>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXU2aGg1aHUxYXV5NDhkOTd3dHdxeHA3N2FjYms2MXM3Nnh5aWpvNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vISmwpBJUNYzukTnVx/giphy.gif" width="80"  title="SQL"/>
-  <img src="https://media.licdn.com/dms/image/v2/D5622AQFjFDXHkiiM8w/feedshare-shrink_800/feedshare-shrink_800/0/1698107115436?e=1762992000&v=beta&t=4gYbgzCGBmiZedMbDAwxpIawZEf9_pE5xShWrmlPcdA" width="80" title="Power BI"/>
+  <img src="https://media.licdn.com/dms/image/v2/D5622AQFjFDXHkiiM8w/feedshare-shrink_800/feedshare-shrink_800/0/1698107115436?e=1766016000&v=beta&t=IQOmwtaoBASkH15DizVybsDf8Y8n8Yrfp3T-fS5U08Y" width="80" title="Power BI"/>
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDN3MGN3ajg0d3dqODkyYWFpOGF6ZGM2ZTdseDI0eXFsYm41dG53YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UMyvk17PIo3SiZQWju/giphy.gif" width="80" title="Excel"/>
 </p>
 
